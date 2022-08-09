@@ -1,5 +1,7 @@
 import random
 
+print("| **** attempt random Number ****|")
+
 num = random.randint(0, 10)  
 
 attempt = int(input("Enter Your attempt: "))
